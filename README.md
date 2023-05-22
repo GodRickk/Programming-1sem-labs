@@ -1,4 +1,4 @@
-# Programming-1sem-labs
+# Programming 1 semester labs
 Here are the laboratory work of the course "programming" of the first semester of study.
 
 ## Meta information editor
