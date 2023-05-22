@@ -5,7 +5,7 @@ Here are the laboratory work of the course "programming" of the first semester o
 The editor is a console program that accepts arguments such as the file name through the 'filepath' parameter, as well as one of the selected commands:
 1) 'show' - displays all metadata as a table.
 2) 'set=prop_name --value=prop_value' - sets the value of a specific metadata field with the name 'prop_name' to the value 'prop_value'.
-3_ 'get=prop_name' - outputs metadata with the name 'prop_name'.
+3) 'get=prop_name' - outputs metadata with the name 'prop_name'.
 
 ## Archiver
 The archiver is a console application that accepts the following parameters as arguments:
