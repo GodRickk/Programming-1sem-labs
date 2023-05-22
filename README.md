@@ -16,3 +16,19 @@ The archiver is a console application that accepts the following parameters as a
 5) FILE1 FILE2 ... FILEN - Free arguments for passing a list of files to be packed.
 
 ## Game of life
+It is Implementation of Conway's "Game of Life"
+It is a console application that takes the following parameters as arguments:
+>The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
+> -- <cite>[Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)</cite>
+1) --input input_file.bmp
+Where input_file.bmp is a monochrome picture in bmp format,
+storing the initial situation (first generation) of the game
+2) --output dir_name
+The name of the directory for storing generations of the game in the form
+monochrome pictures
+3) --max_iter N
+The maximum number of generations that can emulate
+program. Optional parameter, default is infinity
+4) --dump_freq N
+The frequency with which the program should save generations of the form
+Pictures. Optional parameter, default is 1
