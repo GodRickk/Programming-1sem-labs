@@ -17,9 +17,10 @@ The archiver is a console application that accepts the following parameters as a
 
 ## Game of life
 It is Implementation of Conway's "Game of Life"
-It is a console application that takes the following parameters as arguments:
 >The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
 > -- <cite>[Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)</cite>
+> 
+It is a console application that takes the following parameters as arguments:
 1) --input input_file.bmp
 Where input_file.bmp is a monochrome picture in bmp format,
 storing the initial situation (first generation) of the game
